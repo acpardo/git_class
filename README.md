@@ -7,3 +7,5 @@ This is local added in my repository. I want to make available on remote.
 I added another one line locally
 
 ![fun zone](http://www.hvac2000.com/wp-content/uploads/2016/05/Fun-Pictures-3.jpg)
+
+And now I change again after adding bare repository to this one.
